@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="웹페이지.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PUGGY</title>
+    <img src="https://i.pinimg.com/originals/48/91/0c/48910ca8c41b843abf6fea1d4d0fe5f0.jpg"style="float: left; margin-right: 20px; margin-bottom: 10px; width:550px; height:550px;"/>
+</head><h1 id="a">HELLO</h1>
+<body>
+    <b> 길뭉치와 사람을 콘텐츠로 연결하는 퍼기입니다</b>
+    <button onclick="alert('조이_리더,마케터,기획PD/ 케찹_디자이너,기획PD/ 블리_제작PD/ 동동_제작PD')"> About PUGGY </button>
+ 
+</body>
+</html>
+<footer>
+    <div> _
+        
+    </div>
+    <p><b>CONTECT</b></p>
+    <p>mail_puggy@gmail.com </p>
+        <p>call_010-6328-2877</p>
+</footer>
